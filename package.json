@@ -1,6 +1,6 @@
 {
   "name": "lavishgangwani-portfolio",
-  "homepage": "https://lavishgangwani.github.io",
+  "homepage": "https://lavishgangwani.pages.dev",
   "description": "Portfolio site for Lavish Gangwani",
   "repository": "https://github.com/Lavishgangwani/portfolio.git",
   "author": "Lavish Gangwani",
@@ -68,6 +68,6 @@
     "wrangler": "^3.24.0"
   },
   "engines": {
-    "node": ">=19.9.0"
+    "node": ">=18.0.0"
   }
 }

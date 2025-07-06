@@ -1,1 +1,1 @@
-export { Experience as default, meta, action } from './experience.jsx';
+export { Experience as default, meta } from './experience.jsx';

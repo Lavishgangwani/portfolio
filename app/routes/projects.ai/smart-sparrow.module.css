@@ -42,3 +42,24 @@
     top: -5%;
   }
 }
+
+.hrmSmallImage {
+  width: 525px !important;
+  height: auto !important;
+  max-width: 100%;
+  object-fit: contain;
+  display: block;
+  margin: 0 auto;
+}
+
+@media (--mediaTablet) {
+  .hrmSmallImage {
+    width: 80px !important;
+  }
+}
+
+@media (--mediaMobile) {
+  .hrmSmallImage {
+    width: 60px !important;
+  }
+}
